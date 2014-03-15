@@ -1,4 +1,4 @@
-Tutorial Crieteria & Projections
+Tutorial Hibernate - Criteria & Projections
 ============================
 
 Projeto referente ao tutorial postado no blog Programando com Java na seguinte url: http://www.mballem.com/adm/post/edit/hibernate-projections-com-api-criteria
